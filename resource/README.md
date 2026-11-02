@@ -1,6 +1,6 @@
 # 팀별 자료 업로드 안내
 
-프로젝트 HTML에서 사용할 영상·음성·이미지는 **본인 팀에 배정된 `resource/Team_XX/` 안에** 넣습니다. `XX`는 시트의 **Team Name** 번호를 두 자리로 쓴 값입니다. 제출 여부와 관계없이 1~17팀 폴더를 준비했습니다.
+프로젝트 HTML에서 사용할 영상·음성·이미지는 **본인 팀에 배정된 `resource/Team_XX/` 안에** 넣습니다. `XX`는 시트의 **Team Name** 번호를 두 자리로 쓴 값입니다. 제출 여부와 관계없이 1~18팀 폴더를 준비했습니다.
 
 ## 팀별 폴더
 
@@ -23,12 +23,13 @@
 | 15 | 황재현 | [resource/Team_15/](Team_15/) |
 | 16 | 김진수 | [resource/Team_16/](Team_16/) |
 | 17 | 허준영 | [resource/Team_17/](Team_17/) |
+| 18 | 박준형 | [resource/Team_18/](Team_18/) |
 
 팀 번호가 배정되지 않은 제출자는 임의로 새 팀 번호를 만들지 말고 담당자에게 업로드 폴더를 확인하세요.
 
 ## 디렉토리와 파일명
 
-아래는 [Sample HTML](../submission/Team_sample_202624123.html)을 기준으로 한 디렉토리 예시입니다. 예시의 `Team_sample/` 대신 실제 팀은 위 표에 배정된 `Team_01/`~`Team_17/` 폴더를 사용합니다.
+아래는 [Sample HTML](../submission/Team_sample_202624123.html)을 기준으로 한 디렉토리 예시입니다. 예시의 `Team_sample/` 대신 실제 팀은 위 표에 배정된 `Team_01/`~`Team_18/` 폴더를 사용합니다.
 
 ```text
 Speech-Recognition-Challenge-2026/
@@ -43,7 +44,7 @@ Speech-Recognition-Challenge-2026/
     │   └── pipeline.png
     ├── Team_01/
     ├── ...
-    └── Team_17/
+    └── Team_18/
 ```
 
 ## 자료 경로와 공개 주소
